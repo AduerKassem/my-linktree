@@ -42,7 +42,7 @@ p {
 }
 
 .link:hover {
-    background-color: skyblue;
+    background-color: rgba(48, 165, 198);
     color: black;
     transform: scale(1.03);
 }
